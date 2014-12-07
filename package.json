@@ -10,5 +10,9 @@
     "irc":" >= 0.3.7",
     "redwrap":">= 0.0.4"
   },
-  "keywords":["irc","reddit"]
+  "keywords":["irc","reddit"],
+  "scripts":{
+    "start":"node bot.js"
+  },
+  "main": "bot.js"
 }
