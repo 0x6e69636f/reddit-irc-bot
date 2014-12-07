@@ -12,7 +12,7 @@
   },
   "keywords":["irc","reddit"],
   "scripts":{
-    "start":"node bot.js"
+    "start":"node ./bot.js"
   },
   "main": "bot.js"
 }
